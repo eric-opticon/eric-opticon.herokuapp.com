@@ -1,1 +1,0 @@
-$('body').text('hello world');
