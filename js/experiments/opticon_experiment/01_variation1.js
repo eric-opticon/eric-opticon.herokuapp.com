@@ -1,1 +1,1 @@
-$('body')
+$('body').text('hello world');
